@@ -4,7 +4,7 @@ body, html {
 }
   
 .bgimg {
-    background-image: url('images/background.gif');
+    background-image: url('images/background.png');
     background-position: center;
     background-size: cover;
     position: relative;
@@ -38,7 +38,7 @@ body, html {
     transform: translate(-50%, 20%);
     max-width: 15cm;
     padding: 30px;
-    border: 1px solid #ffffff54;
+    border: 1px solid #ffffff2f;
     background: #00000071;
     backdrop-filter: blur(10px);
     border-radius: 5px;
@@ -55,9 +55,8 @@ body, html {
     transform: translate(-50%, 20%);
     max-width: 10cm;
     padding: 30px;
-    border: 1px solid #ffffff54;
+    border: 1px solid #ffffff2f;
     background: #00000071;
-    backdrop-filter: blur(10px);
     border-radius: 5px;
     margin-top: 20px;
     margin-right: 15px;
